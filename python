@@ -1,0 +1,10 @@
+'''
+pip3 install names
+Requirement already satisfied: names in /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages (0.3.0)
+'''
+
+'''
+File "/Users/egorov/Documents/qa/lesson2/p_l_s.py", line 1, in <module>
+    import names
+ImportError: No module named names
+'''

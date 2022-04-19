@@ -1,0 +1,1 @@
+console.log('item_6 == ',  item_6,  'item_6_type ——', typeof item_6);
